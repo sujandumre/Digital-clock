@@ -7,7 +7,7 @@ A simple and elegant **Digital Clock** built with Python using the `tkinter` lib
 ## 📸 Preview
 
 
-![Digital Clock Screenshot](screenshot.png) <!-- Add a screenshot named screenshot.png in your project folder -->
+(23.png)
 
 ---
 
