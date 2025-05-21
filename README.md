@@ -6,8 +6,7 @@ A simple and elegant **Digital Clock** built with Python using the `tkinter` lib
 
  📸 Preview
 
-
-(23.png)
+![Digital Clock Screenshot](23.png)
 
 
 
